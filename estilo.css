@@ -1,0 +1,12 @@
+header {
+    margin: 0 auto;
+    outline: 1px solid red;
+}
+nav span {
+    color: red;
+    font-size: 20px;
+}
+nav span:active {
+    color: black;
+    font-size: 50px;
+}
