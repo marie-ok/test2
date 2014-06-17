@@ -1,12 +1,24 @@
 header {
+	color:#00FF00;
+    font-family:"palatino linotype", palatino, serif;
     margin: 0 auto;
-    outline: 1px solid red;
+    outline: 20px solid blue;
+ }
+
+ p.blanc {
+ color:#FFFFF0;
+ font-family:"palatino linotype", palatino, serif;
+ font-weight:bold
 }
-nav span {
-    color: red;
-    font-size: 20px;
+
+ p.texte {
+ color:red;
+ font-family:"palatino linotype", palatino, serif;
+ font-size: 200
+ font-weight:bold
+ background-color: #000000;
 }
-nav span:active {
-    color: black;
-    font-size: 50px;
+
+body {
+background-image:url(pizza.jpg);
 }

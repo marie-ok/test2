@@ -1,0 +1,68 @@
+div#bandeau {
+	width:170px;
+	height:115px;
+	background-color:#00CCFF;
+	}
+
+
+
+body {
+background-image:url(pizza.jpg);
+}
+
+h1 {
+	  font-size: 64px;
+  text-shadow: -1px -1px #0c0, 1px 1px #060, -3px 0 4px #000;
+  font-family:Arial, Helvetica, sans-serif;
+  color: #090;
+  padding:16px;
+  font-weight:lighter;
+  text-align:center;
+  display:block;
+  margin:16px;
+ }
+
+img { 
+display: block; 
+margin: 0 auto; 
+
+width: 200px; 
+
+} 
+
+.surligner {
+ color:red;
+ font-family:"palatino linotype", palatino, serif;
+ font-size: 4000;
+ font-weight:bold;
+ background-color: #FFFFFF;
+ text-align:center;
+}
+.gif {
+float:center;
+border:5px #875421;
+}
+
+.footer {
+ color:white;
+ font-family:"palatino linotype", palatino, serif;
+ font-size: 4000;
+ font-weight:bold;
+ background-color: red;
+ position: absolute; 
+ top: 1000px; 
+}
+
+.fleche { 
+width:200;
+height: 250;
+position: absolute; 
+top: 700px; 
+left: 700px; 
+}
+
+ .furio {
+position: absolute; 
+top: 900px; 
+left: 800px; 
+}
