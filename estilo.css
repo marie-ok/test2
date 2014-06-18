@@ -1,24 +1,24 @@
+body {
+    background-image:url(pizza.jpg);
+}
 header {
-	color:#00FF00;
-    font-family:"palatino linotype", palatino, serif;
+    color:#00FF00;
+    font-family: "palatino linotype", palatino, serif;
     margin: 0 auto;
     outline: 20px solid blue;
  }
 
- p.blanc {
- color:#FFFFF0;
- font-family:"palatino linotype", palatino, serif;
- font-weight:bold
+p.blanc {
+    color:#FFFFF0;
+    font-family:"palatino linotype", palatino, serif;
+    font-weight:bold
 }
 
  p.texte {
- color:red;
- font-family:"palatino linotype", palatino, serif;
- font-size: 200
- font-weight:bold
- background-color: #000000;
-}
+     color:red;
+     font-family:"palatino linotype", palatino, serif;
+     font-size: 200
+     font-weight:bold
+     background-color: #000000;
+ }
 
-body {
-background-image:url(pizza.jpg);
-}
